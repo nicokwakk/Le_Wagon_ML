@@ -1,10 +1,4 @@
-pandas as pd
-sys
-ipywidgets as widgets
-from IPython.display import display
-plotly.express as px
-from ipywidgets import interact, interactive, fixed, interactive_output
-io
-datetime
-plotly.graph_objects as go
-from ipywidgets import HBox, VBox
+ipywidgets==7.6.5
+pandas==1.3.3
+plotly==5.3.1
+ipython==7.29.0
